@@ -1,4 +1,4 @@
-# Jonah Irons' First CS193 Homework
+
 
 ### My Favorite Things About CS193
 ```
