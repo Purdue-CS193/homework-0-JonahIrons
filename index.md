@@ -1,3 +1,13 @@
+# Jonah Irons' First CS193 Homework
+
+### My Favorite Things About CS193
+```
+- The TA's :)
+- All the things I get to learn
+- The slideshows :O
+- Everything else probably
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
